@@ -1,4 +1,5 @@
 # Çok Sayfalı HTML Web Sitesi Yapısı
+Bu proje [Roadmap.sh HTML Projesi](https://roadmap.sh/projects/basic-html-website) referans alınarak yapılmıştır.
 
 Bu proje, bir web sitesinin temel omurgasını ve anlamsal (semantic) HTML yapısını anlamak amacıyla geliştirilmiştir. Projede CSS kullanılmamış, tamamen HTML etiketlerinin doğru kullanımına odaklanılmıştır.
 
