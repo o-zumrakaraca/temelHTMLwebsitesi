@@ -15,6 +15,7 @@ Bu proje, bir web sitesinin temel omurgasını ve anlamsal (semantic) HTML yapı
 - `projeler.html` (Projeler listesi)
 - `makaleler.html` (Blog/Makale yapısı)
 - `iletisim.html` (İletişim formu)
+- `egitim.html` (egitim bilgileri)
 
 ## 🚀 Sonraki Adımlar
 Bu projenin tamamlanmasının ardından, oluşturulan bu sağlam HTML iskeletine CSS eklenerek tasarım (styling) aşamasına geçilecektir.
